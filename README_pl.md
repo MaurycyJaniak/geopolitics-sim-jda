@@ -2,7 +2,7 @@
 
 # Symulacja geopolityczna
 
-## Opis: Implementacja symulacji geopolitycznej za pomocą arkuszy google, aplikacji Discord i bota zbudowanego w Java Discord API dla międzynarodowej społeczności 20+ aktywnych użytkowników.
+### Opis: Implementacja symulacji geopolitycznej za pomocą arkuszy google, aplikacji Discord i bota zbudowanego w Java Discord API dla międzynarodowej społeczności 20+ aktywnych użytkowników.
 
 # Technologie:
 * Java

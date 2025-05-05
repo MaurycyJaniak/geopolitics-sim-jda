@@ -2,7 +2,7 @@
 
 # Geopolitical simulation
 
-## Description: A geopolitical simulation implemented using Google Sheets, a Discord application, and a custom bot built with the Java Discord API (JDA). The project was designed for an international community of over 20 active participants.
+### Description: A geopolitical simulation implemented using Google Sheets, a Discord application, and a custom bot built with the Java Discord API (JDA). The project was designed for an international community of over 20 active participants.
 
 # Technologies:
 * Java
