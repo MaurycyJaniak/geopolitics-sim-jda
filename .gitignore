@@ -1,0 +1,22 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore build output directories (for Maven/Gradle)
+target/
+build/
+out/
+
+# Ignore config files that contain sensitive data (never upload credentials)
+.env
+
+# Ignore log files
+*.log
