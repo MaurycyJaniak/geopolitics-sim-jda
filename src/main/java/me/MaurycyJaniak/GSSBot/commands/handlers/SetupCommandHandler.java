@@ -17,8 +17,6 @@ public class SetupCommandHandler implements CommandHandler{
             event.reply("You don't have permission to use this command!")
                     .setEphemeral(true)
                     .queue();
-            return;
-
         } else {
 
             Category category = event.getGuild().getCategoryById(1323089559390781460L);
